@@ -26,11 +26,11 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
 
 ## Python Projects
 
-#### Project 1: Comprehensive Retail Sales Data Analysis
+#### Project 1: Comprehensive Retail Analysis
 - **Description:** Analyzed a dataset of sales transactions to identify trends, seasonality, and key performance metrics.
   
 - **Tools:** Python (Pandas, Matplotlib, Seaborn, Numpy)
-- **Link:** [Sales Data Analysis](link-to-project)
+- **Link:** [Retail Sales Data Analysis](https://github.com/marcoserrano21/comprehensive-retail-analysis)
 
 #### Project 2: Personal Finance Tracker
 - **Description:**
@@ -89,4 +89,4 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
 
 ## Contact
 #### LinkedIn : https://www.linkedin.com/in/marco-serrano25/
-#### Email : mserran15@gmail.com
+#### Email: mserran15@gmail.com
