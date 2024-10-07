@@ -22,9 +22,9 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
 - [Education](#education)
   - [CS50P](#cs50p-introduction-to-programming-with-python)
   - [Google Cybersecurity Specialization](#google-cybersecurity-specialization)
-- [Contact](#contact-me)
+- [Contact](#contact-information)
   - [LinkedIn](#linkedin)
-  - [Email](#email)
+  - [Email](#email-me)
 
 ## Python Projects ##
 
@@ -95,9 +95,9 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
 #### Google Cybersecurity Specialization
 - **Link**: (https://coursera.org/share/6b85037cbe80205efccc190e8aeb86ea)
 
-## Contact ##
+## Contact Information ##
 #### LinkedIn: 
 - **Link:** (https://www.linkedin.com/in/marco-serrano25/)
 
-#### Email Me!: 
+#### Email Me: 
 - **Link** (mserran15@gmail.com)
