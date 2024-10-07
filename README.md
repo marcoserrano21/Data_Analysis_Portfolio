@@ -95,6 +95,9 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
 #### Google Cybersecurity Specialization
 - **Link**: (https://coursera.org/share/6b85037cbe80205efccc190e8aeb86ea)
 
-## Contact
-#### LinkedIn : https://www.linkedin.com/in/marco-serrano25/
-#### Email: mserran15@gmail.com
+## Contact ##
+#### LinkedIn: 
+- **Link:** (https://www.linkedin.com/in/marco-serrano25/)
+
+#### Email Me!: 
+- **Link** (mserran15@gmail.com)
