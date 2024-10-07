@@ -21,7 +21,7 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
   - [Project 2: Sales Forecasting Model](#project-2-sales-forecasting-model) -->
 - [Education](#education)
   - [CS50P](#cs50p-introduction-to-programming-with-python)
-  - [Google Cybersecurity Specialization](#Google-Cybersecurity-Certificate)
+  - [Google Cybersecurity Specialization](#google-cybersecurity-specialization)
 - [Contact](#contact-me)
   - [LinkedIn](#linkedin)
   - [Email](#email)
