@@ -4,7 +4,7 @@
 Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering insights from data. I have a strong background in data analysis, data entry, and IT support, with experience in various industries including construction and landscape architecture. I am proficient in Python, SQL, Excel, and Power BI, and have a CS50P certificate from Harvard (Online course). This portfolio showcases some of the projects I have worked on, demonstrating my skills in data analysis, visualization, and storytelling.
 
 ## Table of Contents
-- [Python Projects](#python-projects)
+- [Python Projects](#python-projects) 🐍
   - [Project 1: Comprehensive Retail Data Analysis](#project-1-comprehensive-retail-analysis)
   - [Project 2: Personal Finance Tracker](#project-2-personal-finance-tracker)
   - [Project 3: Vehicle Dataset Cleaning Project](#project-3-vehicle-dataset-cleaning-project)
@@ -15,18 +15,18 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
   - [Project 2: Sales Performance Analysis](#project-2-sales-performance-analysis)
 - [Power BI Projects](#power-bi-projects)
   - [Project 1: Financial Dashboard](#project-1-financial-dashboard)
-  - [Project 2: Marketing Analytics Dashboard](#project-2-marketing-analytics-dashboard)
-- [Excel Projects](#excel-projects)
-  - [Project 1: Budget Tracking Spreadsheet](#project-1-budget-tracking-spreadsheet)
-  - [Project 2: Sales Forecasting Model](#project-2-sales-forecasting-model) -->
-- [Education](#education)
+  - [Project 2: Marketing Analytics Dashboard](#project-2-marketing-analytics-dashboard) -->
+- [Excel Projects](#excel-projects) 
+  - [Project 1: Coffee Orders Analysis Dashboard](#project-1-coffee-orders-analysis-dashboard)
+  - [Project 2: ]
+- [Education](#education) 🧑‍🎓
   - [CS50P](#cs50p-introduction-to-programming-with-python)
   - [Google Cybersecurity Specialization](#google-cybersecurity-specialization)
-- [Contact](#contact-information)
+- [Contact](#contact-information) 👋🏼
   - [LinkedIn](#linkedin)
   - [Email](#email-me)
 
-## Python Projects ##
+## Python Projects ## 
 
 #### Project 1: Comprehensive Retail Analysis
 - **Description:** Analyzed a dataset of sales transactions to identify trends, seasonality, and key performance metrics.
@@ -74,19 +74,21 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
 ### Project 2: Marketing Analytics Dashboard
 - **Description:** Created an interactive dashboard to analyze the effectiveness of marketing campaigns.
 - **Tools:** Power BI
-- **Link:** [Marketing Analytics Dashboard](link-to-project)
+- **Link:** [Marketing Analytics Dashboard](link-to-project) -->
 
-## Excel Projects
+## Excel Projects 
 
-### Project 1: Budget Tracking Spreadsheet
-- **Description:** Built a comprehensive budget tracking model with dynamic visualizations and expense categories.
+### Project 1: Coffee Orders Analysis Dashboard
+- **Description:** I created a coffee orders project using Excel to analyze sales, customers, and products. It includes key insights like top customers and country-wise sales, displayed through a summary dashboard and visualizations like bar charts.
+  
 - **Tools:** Excel (Pivot Tables, Charts)
-- **Link:** [Budget Tracking Spreadsheet](link-to-project)
+  
+- **Link:** [Coffee Orders Analysis](https://github.com/marcoserrano21/coffee-orders-analysis)
 
-### Project 2: Sales Forecasting Model
-- **Description:** Designed a forecasting model to predict future sales based on historical data.
-- **Tools:** Excel (Forecasting Functions, Charts)
-- **Link:** [Sales Forecasting Model](link-to-project) -->
+### Project 2: 
+- **Description:** 
+- **Tools:** 
+- **Link:** 
 
 ## Education ##
 #### CS50P: Introduction to programming with Python
