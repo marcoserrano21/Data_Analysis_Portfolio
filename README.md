@@ -41,7 +41,7 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
 - **Link:** [Personal Finance Tracker](link-to-project)
 
 #### Project 3: Vehicle Dataset Cleaning Project
-- **Description:** 
+- **Description:** In this notebook, I clean and preprocess a vehicle dataset using Pandas for data handling, NumPy for numerical operations, and matplotlib for visualizations. I handle missing values, remove duplicates, and ensure the data is normalized and ready for further analysis or modeling.
 
 - **Tools:** Python (Pandas, Matplotlib, Seaborn, Numpy)
 - **Link:** [Vehicle Dataset Cleaning](https://github.com/marcoserrano21/vehicle_dataset_cleaning_project/tree/main)
