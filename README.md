@@ -5,9 +5,11 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
 
 ## Table of Contents
 - [Python Projects](#python-projects)
-  - [Project 1: Comprehensive Retail Data Analysis](#comprehensive-retail-analysis)
-  - [Project 2: Personal Finance Tracker](#personal-finance-tracker)
-  - [Project 3: CS50P: Random Pastel Generator - Final Project](#random-pastel)
+  - [Project 1: Comprehensive Retail Data Analysis](#project-1-comprehensive-retail-analysis)
+  - [Project 2: Personal Finance Tracker](#project-2-personal-finance-tracker)
+  - [Project 3: Vehicle Dataset Cleaning Project](#project-3-vehicle-dataset-cleaning-project)
+  - [Project 4: CS50P: Random Pastel Generator - Final Project](#project-4-cs50p-random-pastel-generator---final-project)
+
 <!-- [SQL Projects](#sql-projects)
   - [Project 1: Employee Database Management](#project-1-employee-database-management)
   - [Project 2: Sales Performance Analysis](#project-2-sales-performance-analysis)
@@ -18,13 +20,13 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
   - [Project 1: Budget Tracking Spreadsheet](#project-1-budget-tracking-spreadsheet)
   - [Project 2: Sales Forecasting Model](#project-2-sales-forecasting-model) -->
 - [Education](#education)
-  - [CS50P](#CS50P)
+  - [CS50P](#cs50p-introduction-to-programming-with-python)
   - [Google Cybersecurity Specialization](#Google-Cybersecurity-Certificate)
 - [Contact](#contact-me)
   - [LinkedIn](#linkedin)
   - [Email](#email)
 
-## Python Projects
+## Python Projects ##
 
 #### Project 1: Comprehensive Retail Analysis
 - **Description:** Analyzed a dataset of sales transactions to identify trends, seasonality, and key performance metrics.
@@ -36,9 +38,15 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
 - **Description:**
   
 - **Tools:** Python (Pandas, Matplotlib, CSV)
-- **Link:** [Customer Segmentation](link-to-project)
+- **Link:** [Personal Finance Tracker](link-to-project)
 
-#### Project 3: CS50P: Random Pastel Generator - Final Project
+#### Project 3: Vehicle Dataset Cleaning Project
+- **Description:** 
+
+- **Tools:** Python (Pandas, Matplotlib, Seaborn, Numpy)
+- **Link:** [Vehicle Dataset Cleaning](https://github.com/marcoserrano21/vehicle_dataset_cleaning_project/tree/main)
+
+#### Project 4: CS50P: Random Pastel Generator - Final Project
 - **Description:** This project is a Python-based Pastel Color Generator that allows users to generate and display random pastel colors graphically using Matplotlib. The application generates a random color in hex format, converts it to an RGB format, and displays it on the screen. It then asks the user if they want to generate another color.
   
 - **Tools:** Python (Matplotlib, random) 
@@ -80,7 +88,7 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
 - **Tools:** Excel (Forecasting Functions, Charts)
 - **Link:** [Sales Forecasting Model](link-to-project) -->
 
-## Education
+## Education ##
 #### CS50P: Introduction to programming with Python
 - **Link**: (https://certificates.cs50.io/2f49c066-51d0-41f7-a932-2ae07cd84a78.pdf?size=letter)
 
