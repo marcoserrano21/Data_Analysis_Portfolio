@@ -1,7 +1,7 @@
 # Marco Serrano - Data Analyst Portfolio
 
 ## About Me
-Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering insights from data. I have a strong background in data analysis, data entry, and IT support, with experience in various industries including construction and landscape architecture. I am proficient in Python, SQL, Excel, and Power BI, and have a CS50P certificate from Harvard (Online course). This portfolio showcases some of the projects I have worked on, demonstrating my skills in data analysis, visualization, and storytelling.
+Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering data insights. I have a strong background in data analysis, data entry, and IT support, with experience in various industries including construction and landscape architecture. I am proficient in Python, SQL, Excel, and Power BI, and completed a CS50P certificate from Harvard (Online course). This portfolio showcases some of the projects I have worked on, demonstrating my skills in data analysis, visualization, and storytelling.
 
 ## Table of Contents
 - [Python Projects](#python-projects) 🐍
@@ -18,10 +18,12 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
   - [Project 2: Marketing Analytics Dashboard](#project-2-marketing-analytics-dashboard) -->
 - [Excel Projects](#excel-projects) 
   - [Project 1: Coffee Orders Analysis Dashboard](#project-1-coffee-orders-analysis-dashboard)
-  - [Project 2: ]
+  - [Project 2: Sales Performance and Profitability Dashboard](#project-2-sales-performance-and-profitability-dashboard)
+    
 - [Education](#education) 🧑‍🎓
   - [CS50P](#cs50p-introduction-to-programming-with-python)
   - [Google Cybersecurity Specialization](#google-cybersecurity-specialization)
+    
 - [Contact](#contact-information) 👋🏼
   - [LinkedIn](#linkedin)
   - [Email](#email-me)
@@ -41,7 +43,7 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
 - **Link:** [Personal Finance Tracker](link-to-project)
 
 #### Project 3: Vehicle Dataset Cleaning Project
-- **Description:** In this notebook, I clean and preprocess a vehicle dataset using Pandas for data handling, NumPy for numerical operations, and matplotlib for visualizations. I handle missing values, remove duplicates, and ensure the data is normalized and ready for further analysis or modeling.
+- **Description:** In this notebook, I clean and preprocess a vehicle dataset using Pandas for data handling, NumPy for numerical operations, and Matplotlib for visualizations. I handle missing values, remove duplicates, and ensure the data is normalized and ready for further analysis or modeling.
 
 - **Tools:** Python (Pandas, Matplotlib, Seaborn, Numpy)
 - **Link:** [Vehicle Dataset Cleaning](https://github.com/marcoserrano21/vehicle_dataset_cleaning_project/tree/main)
@@ -85,10 +87,12 @@ Hello! I'm Marco Serrano, an aspiring data analyst with a passion for uncovering
   
 - **Link:** [Coffee Orders Analysis](https://github.com/marcoserrano21/coffee-orders-analysis)
 
-### Project 2: 
-- **Description:** 
-- **Tools:** 
-- **Link:** 
+### Project 2: Sales Performance and Profitability Dashboard
+- **Description:** I was tasked with building a Sales Performance and Profitability Dashboard for a retail company. The goal is to analyze product sales, profits, and regional performance, and display the data in a dynamic and interactive dashboard that updates as new sales data is entered
+  
+- **Tools:** Excel (PivotTables, Charts, VBA)
+  
+- **Link:** [Sales Performance and Profitability Dashboard](https://github.com/marcoserrano21/sales-performance-and-profitability-dashboard)
 
 ## Education ##
 #### CS50P: Introduction to programming with Python
