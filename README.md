@@ -96,9 +96,9 @@ Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering d
 - **Link:** [Sales Performance and Profitability Dashboard](https://github.com/marcoserrano21/sales-performance-and-profitability-dashboard)
 
 ### Project 3: Customer Sales Analysis Dashboard
-- **Description:** This project is a hands-on business analytics task to create a professional and interactive Excel dashboard for customer sales analysis. Using a simulated dataset, this dashboard provides insights into a fictional retail company's sales performance, top customers, product categories, and regional sales trends.
+- **Description:** This project is a hands-on business analytics task to create a professional and interactive Excel dashboard for customer sales analysis. Using a simulated dataset, this dashboard provides insights into a fictional retail company's sales performance, top customers, product categories, and regional sales trends. Also created the dummy dataset using Python.
 
-- **Tools:** Excel (PivotTables, Charts, Slicers, Timeline)
+- **Tools:** Excel (PivotTables, Charts, Slicers, Timeline, Python)
 
 - **Link:** [Customer Sales Analysis Dashboard](https://github.com/marcoserrano21/customer-sales-analysis-dashboard)
 
