@@ -19,6 +19,7 @@ Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering d
 - [Excel Projects](#excel-projects) 
   - [Project 1: Coffee Orders Analysis Dashboard](#project-1-coffee-orders-analysis-dashboard)
   - [Project 2: Sales Performance and Profitability Dashboard](#project-2-sales-performance-and-profitability-dashboard)
+  - [Project 3: Customer Sales Analysis Dashboard](#project-3-customer-sales-analysis-dashboard)
     
 - [Education](#education) 🧑‍🎓
   - [CS50P](#cs50p-introduction-to-programming-with-python)
@@ -83,7 +84,7 @@ Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering d
 ### Project 1: Coffee Orders Analysis Dashboard
 - **Description:** I created a coffee orders project using Excel to analyze sales, customers, and products. It includes key insights like top customers and country-wise sales, displayed through a summary dashboard and visualizations like bar charts.
   
-- **Tools:** Excel (Pivot Tables, Charts)
+- **Tools:** Excel (PivotTables, Charts, Slicers, Timeline)
   
 - **Link:** [Coffee Orders Analysis](https://github.com/marcoserrano21/coffee-orders-analysis)
 
@@ -93,6 +94,13 @@ Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering d
 - **Tools:** Excel (PivotTables, Charts, VBA)
   
 - **Link:** [Sales Performance and Profitability Dashboard](https://github.com/marcoserrano21/sales-performance-and-profitability-dashboard)
+
+### Project 3: Customer Sales Analysis Dashboard
+- **Description:** This project is a hands-on business analytics task to create a professional and interactive Excel dashboard for customer sales analysis. Using a simulated dataset, this dashboard provides insights into a fictional retail company's sales performance, top customers, product categories, and regional sales trends.
+
+- **Tools:** Excel (PivotTables, Charts, Slicers, Timeline)
+
+- **Link:** [Customer Sales Analysis Dashboard](https://github.com/marcoserrano21/customer-sales-analysis-dashboard)
 
 ## Education ##
 #### CS50P: Introduction to programming with Python
