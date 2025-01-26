@@ -1,4 +1,4 @@
-# Marco Serrano - Data Analyst Portfolio
+# Marco Serrano - Data Analyst Portfolio (work in progress)
 
 ## About Me
 Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering data insights. I have a strong background in data analysis, data entry, and IT support, with experience in various industries including construction and landscape architecture. I am proficient in Python, SQL, Excel, and Power BI, and completed a CS50P certificate from Harvard (Online course). This portfolio showcases some of the projects I have worked on, demonstrating my skills in data analysis, visualization, and storytelling.
