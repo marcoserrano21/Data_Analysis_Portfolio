@@ -16,7 +16,8 @@ Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering d
 - [Power BI Projects](#power-bi-projects)
   - [Project 1: Financial Dashboard](#project-1-financial-dashboard)
   - [Project 2: Marketing Analytics Dashboard](#project-2-marketing-analytics-dashboard) -->
-- [Excel Projects](#excel-projects) 
+  
+- [Excel Projects](#excel-projects) 📝
   - [Project 1: Coffee Orders Analysis Dashboard](#project-1-coffee-orders-analysis-dashboard)
   - [Project 2: Sales Performance and Profitability Dashboard](#project-2-sales-performance-and-profitability-dashboard)
   - [Project 3: Customer Sales Analysis Dashboard](#project-3-customer-sales-analysis-dashboard)
