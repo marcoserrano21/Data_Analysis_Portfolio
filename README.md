@@ -56,26 +56,25 @@ Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering d
 - **Tools:** Python (Matplotlib, random) 
 - **Link:** [Random Pastel Generator](https://github.com/marcoserrano21/random_pastel)
 
-<!-- ## SQL Projects
+## SQL Projects
 
-### Project 1: Employee Database Management
-- **Description:** Designed and queried an employee database to manage employee records and performance metrics.
-- **Tools:** SQL (PostgreSQL)
-- **Link:** [Employee Database Management](link-to-project)
+### Project 1: Retail Sales Analysis
+- **Description:** Creating a database for Foot Locker's retail data and performing data analysis to derive insights.
+- **Tools:** MySQL, Python (pandas, matplotlib, seaborn, ploty), Jupyter Notebook, PowerBI
+- **Link:** [Footlocker Data Insights](https://github.com/marcoserrano21/footlocker_data_insight)
 
-### Project 2: Sales Performance Analysis
+<!-- ### Project 2: Sales Performance Analysis
 - **Description:** Conducted analysis on sales performance using complex SQL queries to generate insights on regional and product performance.
 - **Tools:** SQL (PostgreSQL)
-- **Link:** [Sales Performance Analysis](link-to-project)
+- **Link:** [Sales Performance Analysis](link-to-project) -->
 
 ## Power BI Projects
 
-### Project 1: Financial Dashboard
-- **Description:** Developed a financial dashboard to track key financial metrics and visualize trends over time.
-- **Tools:** Power BI
-- **Link:** [Financial Dashboard](link-to-project)
+- **Description:** Creating a database for Foot Locker's retail data and performing data analysis to derive insights.
+- **Tools:** MySQL, Python (pandas, matplotlib, seaborn, ploty), Jupyter Notebook, PowerBI
+- **Link:** [Footlocker Data Insights](https://github.com/marcoserrano21/footlocker_data_insight)
 
-### Project 2: Marketing Analytics Dashboard
+<!--  ### Project 2: Marketing Analytics Dashboard
 - **Description:** Created an interactive dashboard to analyze the effectiveness of marketing campaigns.
 - **Tools:** Power BI
 - **Link:** [Marketing Analytics Dashboard](link-to-project) -->
