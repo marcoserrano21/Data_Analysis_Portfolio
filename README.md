@@ -10,10 +10,11 @@ Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering d
   - [Project 3: Vehicle Dataset Cleaning Project](#project-3-vehicle-dataset-cleaning-project)
   - [Project 4: CS50P: Random Pastel Generator - Final Project](#project-4-cs50p-random-pastel-generator---final-project)
 
-<!-- [SQL Projects](#sql-projects)
-  - [Project 1: Employee Database Management](#project-1-employee-database-management)
-  - [Project 2: Sales Performance Analysis](#project-2-sales-performance-analysis)
-- [Power BI Projects](#power-bi-projects)
+- [SQL Projects](#sql-projects)
+  - [Project 1: Retail Sales Analysis](#project-1-retail-sales-analysis)
+<!-- - [Project 2: Sales Performance Analysis](#project-2-sales-performance-analysis) -->
+
+<!-- - [Power BI Projects](#power-bi-projects)
   - [Project 1: Financial Dashboard](#project-1-financial-dashboard)
   - [Project 2: Marketing Analytics Dashboard](#project-2-marketing-analytics-dashboard) -->
   
