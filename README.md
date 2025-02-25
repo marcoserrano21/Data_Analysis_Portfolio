@@ -1,7 +1,7 @@
 # Marco Serrano - Data Analyst Portfolio (work in progress)
 
 ## About Me
-Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering data insights. I have a strong background in data analysis, data entry, and IT support, with experience in various industries including construction and landscape architecture. I am proficient in Python, SQL, Excel, and Power BI, and completed a CS50P certificate from Harvard (Online course). This portfolio showcases some of the projects I have worked on, demonstrating my skills in data analysis, visualization, and storytelling.
+Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering data insights. I have a strong background in data analysis, data entry, and IT support, with experience in various industries including construction and landscape architecture. I am proficient in Python, SQL, Excel, and Power BI, and I completed a CS50P certificate from Harvard (Online course). This portfolio showcases some of the projects I have worked on, demonstrating my data analysis, visualization, and storytelling skills.
 
 ## Table of Contents
 - [Python Projects](#python-projects) 🐍
@@ -61,18 +61,18 @@ Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering d
 
 ### Project 1: Retail Sales Analysis
 - **Description:** Creating a database for Foot Locker's retail data and performing data analysis to derive insights.
-- **Tools:** MySQL, Python (pandas, matplotlib, seaborn, ploty), Jupyter Notebook, PowerBI
+- **Tools:** MySQL, Python (pandas, matplotlib, seaborn, plotly), Jupyter Notebook, PowerBI
 - **Link:** [Footlocker Data Insights](https://github.com/marcoserrano21/footlocker_data_insight)
 
 <!-- ### Project 2: Sales Performance Analysis
-- **Description:** Conducted analysis on sales performance using complex SQL queries to generate insights on regional and product performance.
+- **Description:** Analyzed sales performance using complex SQL queries to generate insights on regional and product performance.
 - **Tools:** SQL (PostgreSQL)
 - **Link:** [Sales Performance Analysis](link-to-project) -->
 
 ## Power BI Projects
 
 - **Description:** Creating a database for Foot Locker's retail data and performing data analysis to derive insights.
-- **Tools:** MySQL, Python (pandas, matplotlib, seaborn, ploty), Jupyter Notebook, PowerBI
+- **Tools:** MySQL, Python (pandas, matplotlib, seaborn, plotly), Jupyter Notebook, PowerBI
 - **Link:** [Footlocker Data Insights](https://github.com/marcoserrano21/footlocker_data_insight)
 
 <!--  ### Project 2: Marketing Analytics Dashboard
@@ -97,7 +97,7 @@ Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering d
 - **Link:** [Sales Performance and Profitability Dashboard](https://github.com/marcoserrano21/sales-performance-and-profitability-dashboard)
 
 ### Project 3: Customer Sales Analysis Dashboard
-- **Description:** This project is a hands-on business analytics task to create a professional and interactive Excel dashboard for customer sales analysis. Using a simulated dataset, this dashboard provides insights into a fictional retail company's sales performance, top customers, product categories, and regional sales trends. Also created the dummy dataset using Python.
+- **Description:** This project is a hands-on business analytics task to create a professional and interactive Excel dashboard for customer sales analysis. Using a simulated dataset, this dashboard provides insights into a fictional retail company's sales performance, top customers, product categories, and regional sales trends. I also created the dummy dataset using Python.
 
 - **Tools:** Excel (PivotTables, Charts, Slicers, Timeline, Python)
 
