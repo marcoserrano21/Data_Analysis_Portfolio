@@ -11,7 +11,7 @@ Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering d
   - [Project 4: CS50P: Random Pastel Generator - Final Project](#project-4-cs50p-random-pastel-generator---final-project)
 
 - [SQL Projects](#sql-projects)
-  - [Project 1: Retail Sales Analysis](#project-1-retail-sales-analysis)
+  - [Project 1: Footlocker Data Insights](#project-1-footlocker-data-insights)
 <!-- - [Project 2: Sales Performance Analysis](#project-2-sales-performance-analysis) -->
 
 <!-- - [Power BI Projects](#power-bi-projects)
@@ -59,7 +59,7 @@ Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering d
 
 ## SQL Projects
 
-### Project 1: Retail Sales Analysis
+### Project 1: Footlocker Data Insights
 - **Description:** Creating a database for Foot Locker's retail data and performing data analysis to derive insights.
 - **Tools:** MySQL, Python (pandas, matplotlib, seaborn, plotly), Jupyter Notebook, PowerBI
 - **Link:** [Footlocker Data Insights](https://github.com/marcoserrano21/footlocker_data_insight)
