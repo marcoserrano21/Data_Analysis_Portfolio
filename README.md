@@ -12,6 +12,7 @@ Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering d
 
 - [SQL Projects](#sql-projects)
   - [Project 1: Footlocker Data Insights](#project-1-footlocker-data-insights)
+  - [Project 2: Churn Signal and Sales Trends](#project-2-churn-signal-and-sales-trends)
 <!-- - [Project 2: Sales Performance Analysis](#project-2-sales-performance-analysis) -->
 
 <!-- - [Power BI Projects](#power-bi-projects)
@@ -64,10 +65,10 @@ Hello! I'm Marco Serrano, an aspiring data analyst passionate about uncovering d
 - **Tools:** MySQL, Python (pandas, matplotlib, seaborn, plotly), Jupyter Notebook, PowerBI
 - **Link:** [Footlocker Data Insights](https://github.com/marcoserrano21/footlocker_data_insight)
 
-<!-- ### Project 2: Sales Performance Analysis
-- **Description:** Analyzed sales performance using complex SQL queries to generate insights on regional and product performance.
-- **Tools:** SQL (PostgreSQL)
-- **Link:** [Sales Performance Analysis](link-to-project) -->
+### Project 2: Churn Signal and Sales Trends
+- **Description:** Analyzed orders, customers, and subscription datasets using complex SQL queries to generate insights on meal subscriptions.
+- **Tools:** SQL (MySQL Workbench)
+- **Link:** [Churn Signal and Sales Trends](https://github.com/marcoserrano21/churn_signals_and_sales_trends)
 
 ## Power BI Projects
 
